@@ -1,0 +1,339 @@
+ID,NAME
+ST100SV,Volume (WM Parcellation) of RightNonWMHypoIntensities
+ST101SV,Volume (WM Parcellation) of RightPallidum
+ST102CV,Volume (Cortical Parcellation) of RightParacentral
+ST102SA,Surface Area of RightParacentral
+ST102TA,Cortical Thickness Average of RightParacentral
+ST102TS,Cortical Thickness Standard Deviation of RightParacentral
+ST103CV,Volume (Cortical Parcellation) of RightParahippocampal
+ST103SA,Surface Area of RightParahippocampal
+ST103TA,Cortical Thickness Average of RightParahippocampal
+ST103TS,Cortical Thickness Standard Deviation of RightParahippocampal
+ST104CV,Volume (Cortical Parcellation) of RightParsOpercularis
+ST104SA,Surface Area of RightParsOpercularis
+ST104TA,Cortical Thickness Average of RightParsOpercularis
+ST104TS,Cortical Thickness Standard Deviation of RightParsOpercularis
+ST105CV,Volume (Cortical Parcellation) of RightParsOrbitalis
+ST105SA,Surface Area of RightParsOrbitalis
+ST105TA,Cortical Thickness Average of RightParsOrbitalis
+ST105TS,Cortical Thickness Standard Deviation of RightParsOrbitalis
+ST106CV,Volume (Cortical Parcellation) of RightParsTriangularis
+ST106SA,Surface Area of RightParsTriangularis
+ST106TA,Cortical Thickness Average of RightParsTriangularis
+ST106TS,Cortical Thickness Standard Deviation of RightParsTriangularis
+ST107CV,Volume (Cortical Parcellation) of RightPericalcarine
+ST107SA,Surface Area of RightPericalcarine
+ST107TA,Cortical Thickness Average of RightPericalcarine
+ST107TS,Cortical Thickness Standard Deviation of RightPericalcarine
+ST108CV,Volume (Cortical Parcellation) of RightPostcentral
+ST108SA,Surface Area of RightPostcentral
+ST108TA,Cortical Thickness Average of RightPostcentral
+ST108TS,Cortical Thickness Standard Deviation of RightPostcentral
+ST109CV,Volume (Cortical Parcellation) of RightPosteriorCingulate
+ST109SA,Surface Area of RightPosteriorCingulate
+ST109TA,Cortical Thickness Average of RightPosteriorCingulate
+ST109TS,Cortical Thickness Standard Deviation of RightPosteriorCingulate
+ST10CV,Volume (Cortical Parcellation) of Icv
+ST110CV,Volume (Cortical Parcellation) of RightPrecentral
+ST110SA,Surface Area of RightPrecentral
+ST110TA,Cortical Thickness Average of RightPrecentral
+ST110TS,Cortical Thickness Standard Deviation of RightPrecentral
+ST111CV,Volume (Cortical Parcellation) of RightPrecuneus
+ST111SA,Surface Area of RightPrecuneus
+ST111TA,Cortical Thickness Average of RightPrecuneus
+ST111TS,Cortical Thickness Standard Deviation of RightPrecuneus
+ST112SV,Volume (WM Parcellation) of RightPutamen
+ST113CV,Volume (Cortical Parcellation) of RightRostralAnteriorCingulate
+ST113SA,Surface Area of RightRostralAnteriorCingulate
+ST113TA,Cortical Thickness Average of RightRostralAnteriorCingulate
+ST113TS,Cortical Thickness Standard Deviation of RightRostralAnteriorCingulate
+ST114CV,Volume (Cortical Parcellation) of RightRostralMiddleFrontal
+ST114SA,Surface Area of RightRostralMiddleFrontal
+ST114TA,Cortical Thickness Average of RightRostralMiddleFrontal
+ST114TS,Cortical Thickness Standard Deviation of RightRostralMiddleFrontal
+ST115CV,Volume (Cortical Parcellation) of RightSuperiorFrontal
+ST115SA,Surface Area of RightSuperiorFrontal
+ST115TA,Cortical Thickness Average of RightSuperiorFrontal
+ST115TS,Cortical Thickness Standard Deviation of RightSuperiorFrontal
+ST116CV,Volume (Cortical Parcellation) of RightSuperiorParietal
+ST116SA,Surface Area of RightSuperiorParietal
+ST116TA,Cortical Thickness Average of RightSuperiorParietal
+ST116TS,Cortical Thickness Standard Deviation of RightSuperiorParietal
+ST117CV,Volume (Cortical Parcellation) of RightSuperiorTemporal
+ST117SA,Surface Area of RightSuperiorTemporal
+ST117TA,Cortical Thickness Average of RightSuperiorTemporal
+ST117TS,Cortical Thickness Standard Deviation of RightSuperiorTemporal
+ST118CV,Volume (Cortical Parcellation) of RightSupramarginal
+ST118SA,Surface Area of RightSupramarginal
+ST118TA,Cortical Thickness Average of RightSupramarginal
+ST118TS,Cortical Thickness Standard Deviation of RightSupramarginal
+ST119CV,Volume (Cortical Parcellation) of RightTemporalPole
+ST119SA,Surface Area of RightTemporalPole
+ST119TA,Cortical Thickness Average of RightTemporalPole
+ST119TS,Cortical Thickness Standard Deviation of RightTemporalPole
+ST11SV,Volume (WM Parcellation) of LeftAccumbensArea
+ST120SV,Volume (WM Parcellation) of RightThalamus
+ST121CV,Volume (Cortical Parcellation) of RightTransverseTemporal
+ST121SA,Surface Area of RightTransverseTemporal
+ST121TA,Cortical Thickness Average of RightTransverseTemporal
+ST121TS,Cortical Thickness Standard Deviation of RightTransverseTemporal
+ST122SV,Volume (WM Parcellation) of RightUndetermined
+ST123CV,Volume (Cortical Parcellation) of RightUnknown
+ST123SA,Surface Area of RightUnknown
+ST123TA,Cortical Thickness Average of RightUnknown
+ST123TS,Cortical Thickness Standard Deviation of RightUnknown
+ST124SV,Volume (WM Parcellation) of RightVentralDC
+ST125SV,Volume (WM Parcellation) of RightVessel
+ST126SV,Volume (WM Parcellation) of RightWMHypoIntensities
+ST127SV,Volume (WM Parcellation) of ThirdVentricle
+ST128SV,Volume (WM Parcellation) of WMHypoIntensities
+ST12SV,Volume (WM Parcellation) of LeftAmygdala
+ST13CV,Volume (Cortical Parcellation) of LeftBankssts
+ST13SA,Surface Area of LeftBankssts
+ST13TA,Cortical Thickness Average of LeftBankssts
+ST13TS,Cortical Thickness Standard Deviation of LeftBankssts
+ST14CV,Volume (Cortical Parcellation) of LeftCaudalAnteriorCingulate
+ST14SA,Surface Area of LeftCaudalAnteriorCingulate
+ST14TA,Cortical Thickness Average of LeftCaudalAnteriorCingulate
+ST14TS,Cortical Thickness Standard Deviation of LeftCaudalAnteriorCingulate
+ST15CV,Volume (Cortical Parcellation) of LeftCaudalMiddleFrontal
+ST15SA,Surface Area of LeftCaudalMiddleFrontal
+ST15TA,Cortical Thickness Average of LeftCaudalMiddleFrontal
+ST15TS,Cortical Thickness Standard Deviation of LeftCaudalMiddleFrontal
+ST16SV,Volume (WM Parcellation) of LeftCaudate
+ST17SV,Volume (WM Parcellation) of LeftCerebellumCortex
+ST18SV,Volume (WM Parcellation) of LeftCerebellumWM
+ST19SV,Volume (WM Parcellation) of LeftCerebralCortex
+ST1SV,Volume (WM Parcellation) of Brainstem
+ST20SV,Volume (WM Parcellation) of LeftCerebralWM
+ST21SV,Volume (WM Parcellation) of LeftChoroidPlexus
+ST22CV,Volume (Cortical Parcellation) of LeftCorpusCallosum
+ST22SA,Surface Area of LeftCorpusCallosum
+ST22TA,Cortical Thickness Average of LeftCorpusCallosum
+ST22TS,Cortical Thickness Standard Deviation of LeftCorpusCallosum
+ST23CV,Volume (Cortical Parcellation) of LeftCuneus
+ST23SA,Surface Area of LeftCuneus
+ST23TA,Cortical Thickness Average of LeftCuneus
+ST23TS,Cortical Thickness Standard Deviation of LeftCuneus
+ST24CV,Volume (Cortical Parcellation) of LeftEntorhinal
+ST24SA,Surface Area of LeftEntorhinal
+ST24TA,Cortical Thickness Average of LeftEntorhinal
+ST24TS,Cortical Thickness Standard Deviation of LeftEntorhinal
+ST25CV,Volume (Cortical Parcellation) of LeftFrontalPole
+ST25SA,Surface Area of LeftFrontalPole
+ST25TA,Cortical Thickness Average of LeftFrontalPole
+ST25TS,Cortical Thickness Standard Deviation of LeftFrontalPole
+ST26CV,Volume (Cortical Parcellation) of LeftFusiform
+ST26SA,Surface Area of LeftFusiform
+ST26TA,Cortical Thickness Average of LeftFusiform
+ST26TS,Cortical Thickness Standard Deviation of LeftFusiform
+ST27SA,Surface Area of LeftHemisphere
+ST28CV,Volume (Cortical Parcellation) of LeftHemisphereWM
+ST29SV,Volume (WM Parcellation) of LeftHippocampus
+ST2SV,Volume (WM Parcellation) of CorpusCallosumAnterior
+ST30SV,Volume (WM Parcellation) of LeftInferiorLateralVentricle
+ST31CV,Volume (Cortical Parcellation) of LeftInferiorParietal
+ST31SA,Surface Area of LeftInferiorParietal
+ST31TA,Cortical Thickness Average of LeftInferiorParietal
+ST31TS,Cortical Thickness Standard Deviation of LeftInferiorParietal
+ST32CV,Volume (Cortical Parcellation) of LeftInferiorTemporal
+ST32SA,Surface Area of LeftInferiorTemporal
+ST32TA,Cortical Thickness Average of LeftInferiorTemporal
+ST32TS,Cortical Thickness Standard Deviation of LeftInferiorTemporal
+ST33SV,Volume (WM Parcellation) of LeftInterior
+ST34CV,Volume (Cortical Parcellation) of LeftIsthmusCingulate
+ST34SA,Surface Area of LeftIsthmusCingulate
+ST34TA,Cortical Thickness Average of LeftIsthmusCingulate
+ST34TS,Cortical Thickness Standard Deviation of LeftIsthmusCingulate
+ST35CV,Volume (Cortical Parcellation) of LeftLateralOccipital
+ST35SA,Surface Area of LeftLateralOccipital
+ST35TA,Cortical Thickness Average of LeftLateralOccipital
+ST35TS,Cortical Thickness Standard Deviation of LeftLateralOccipital
+ST36CV,Volume (Cortical Parcellation) of LeftLateralOrbitofrontal
+ST36SA,Surface Area of LeftLateralOrbitofrontal
+ST36TA,Cortical Thickness Average of LeftLateralOrbitofrontal
+ST36TS,Cortical Thickness Standard Deviation of LeftLateralOrbitofrontal
+ST37SV,Volume (WM Parcellation) of LeftLateralVentricle
+ST38CV,Volume (Cortical Parcellation) of LeftLingual
+ST38SA,Surface Area of LeftLingual
+ST38TA,Cortical Thickness Average of LeftLingual
+ST38TS,Cortical Thickness Standard Deviation of LeftLingual
+ST39CV,Volume (Cortical Parcellation) of LeftMedialOrbitofrontal
+ST39SA,Surface Area of LeftMedialOrbitofrontal
+ST39TA,Cortical Thickness Average of LeftMedialOrbitofrontal
+ST39TS,Cortical Thickness Standard Deviation of LeftMedialOrbitofrontal
+ST3SV,Volume (WM Parcellation) of CorpusCallosumCentral
+ST40CV,Volume (Cortical Parcellation) of LeftMiddleTemporal
+ST40SA,Surface Area of LeftMiddleTemporal
+ST40TA,Cortical Thickness Average of LeftMiddleTemporal
+ST40TS,Cortical Thickness Standard Deviation of LeftMiddleTemporal
+ST41SV,Volume (WM Parcellation) of LeftNonWMHypoIntensities
+ST42SV,Volume (WM Parcellation) of LeftPallidum
+ST43CV,Volume (Cortical Parcellation) of LeftParacentral
+ST43SA,Surface Area of LeftParacentral
+ST43TA,Cortical Thickness Average of LeftParacentral
+ST43TS,Cortical Thickness Standard Deviation of LeftParacentral
+ST44CV,Volume (Cortical Parcellation) of LeftParahippocampal
+ST44SA,Surface Area of LeftParahippocampal
+ST44TA,Cortical Thickness Average of LeftParahippocampal
+ST44TS,Cortical Thickness Standard Deviation of LeftParahippocampal
+ST45CV,Volume (Cortical Parcellation) of LeftParsOpercularis
+ST45SA,Surface Area of LeftParsOpercularis
+ST45TA,Cortical Thickness Average of LeftParsOpercularis
+ST45TS,Cortical Thickness Standard Deviation of LeftParsOpercularis
+ST46CV,Volume (Cortical Parcellation) of LeftParsOrbitalis
+ST46SA,Surface Area of LeftParsOrbitalis
+ST46TA,Cortical Thickness Average of LeftParsOrbitalis
+ST46TS,Cortical Thickness Standard Deviation of LeftParsOrbitalis
+ST47CV,Volume (Cortical Parcellation) of LeftParsTriangularis
+ST47SA,Surface Area of LeftParsTriangularis
+ST47TA,Cortical Thickness Average of LeftParsTriangularis
+ST47TS,Cortical Thickness Standard Deviation of LeftParsTriangularis
+ST48CV,Volume (Cortical Parcellation) of LeftPericalcarine
+ST48SA,Surface Area of LeftPericalcarine
+ST48TA,Cortical Thickness Average of LeftPericalcarine
+ST48TS,Cortical Thickness Standard Deviation of LeftPericalcarine
+ST49CV,Volume (Cortical Parcellation) of LeftPostcentral
+ST49SA,Surface Area of LeftPostcentral
+ST49TA,Cortical Thickness Average of LeftPostcentral
+ST49TS,Cortical Thickness Standard Deviation of LeftPostcentral
+ST4SV,Volume (WM Parcellation) of CorpusCallosumMidAnterior
+ST50CV,Volume (Cortical Parcellation) of LeftPosteriorCingulate
+ST50SA,Surface Area of LeftPosteriorCingulate
+ST50TA,Cortical Thickness Average of LeftPosteriorCingulate
+ST50TS,Cortical Thickness Standard Deviation of LeftPosteriorCingulate
+ST51CV,Volume (Cortical Parcellation) of LeftPrecentral
+ST51SA,Surface Area of LeftPrecentral
+ST51TA,Cortical Thickness Average of LeftPrecentral
+ST51TS,Cortical Thickness Standard Deviation of LeftPrecentral
+ST52CV,Volume (Cortical Parcellation) of LeftPrecuneus
+ST52SA,Surface Area of LeftPrecuneus
+ST52TA,Cortical Thickness Average of LeftPrecuneus
+ST52TS,Cortical Thickness Standard Deviation of LeftPrecuneus
+ST53SV,Volume (WM Parcellation) of LeftPutamen
+ST54CV,Volume (Cortical Parcellation) of LeftRostralAnteriorCingulate
+ST54SA,Surface Area of LeftRostralAnteriorCingulate
+ST54TA,Cortical Thickness Average of LeftRostralAnteriorCingulate
+ST54TS,Cortical Thickness Standard Deviation of LeftRostralAnteriorCingulate
+ST55CV,Volume (Cortical Parcellation) of LeftRostralMiddleFrontal
+ST55SA,Surface Area of LeftRostralMiddleFrontal
+ST55TA,Cortical Thickness Average of LeftRostralMiddleFrontal
+ST55TS,Cortical Thickness Standard Deviation of LeftRostralMiddleFrontal
+ST56CV,Volume (Cortical Parcellation) of LeftSuperiorFrontal
+ST56SA,Surface Area of LeftSuperiorFrontal
+ST56TA,Cortical Thickness Average of LeftSuperiorFrontal
+ST56TS,Cortical Thickness Standard Deviation of LeftSuperiorFrontal
+ST57CV,Volume (Cortical Parcellation) of LeftSuperiorParietal
+ST57SA,Surface Area of LeftSuperiorParietal
+ST57TA,Cortical Thickness Average of LeftSuperiorParietal
+ST57TS,Cortical Thickness Standard Deviation of LeftSuperiorParietal
+ST58CV,Volume (Cortical Parcellation) of LeftSuperiorTemporal
+ST58SA,Surface Area of LeftSuperiorTemporal
+ST58TA,Cortical Thickness Average of LeftSuperiorTemporal
+ST58TS,Cortical Thickness Standard Deviation of LeftSuperiorTemporal
+ST59CV,Volume (Cortical Parcellation) of LeftSupramarginal
+ST59SA,Surface Area of LeftSupramarginal
+ST59TA,Cortical Thickness Average of LeftSupramarginal
+ST59TS,Cortical Thickness Standard Deviation of LeftSupramarginal
+ST5SV,Volume (WM Parcellation) of CorpusCallosumMidPosterior
+ST60CV,Volume (Cortical Parcellation) of LeftTemporalPole
+ST60SA,Surface Area of LeftTemporalPole
+ST60TA,Cortical Thickness Average of LeftTemporalPole
+ST60TS,Cortical Thickness Standard Deviation of LeftTemporalPole
+ST61SV,Volume (WM Parcellation) of LeftThalamus
+ST62CV,Volume (Cortical Parcellation) of LeftTransverseTemporal
+ST62SA,Surface Area of LeftTransverseTemporal
+ST62TA,Cortical Thickness Average of LeftTransverseTemporal
+ST62TS,Cortical Thickness Standard Deviation of LeftTransverseTemporal
+ST63SV,Volume (WM Parcellation) of LeftUndetermined
+ST64CV,Volume (Cortical Parcellation) of LeftUnknown
+ST64SA,Surface Area of LeftUnknown
+ST64TA,Cortical Thickness Average of LeftUnknown
+ST64TS,Cortical Thickness Standard Deviation of LeftUnknown
+ST65SV,Volume (WM Parcellation) of LeftVentralDC
+ST66SV,Volume (WM Parcellation) of LeftVessel
+ST67SV,Volume (WM Parcellation) of LeftWMHypoIntensities
+ST68SV,Volume (WM Parcellation) of NonWMHypoIntensities
+ST69SV,Volume (WM Parcellation) of OpticChiasm
+ST6SV,Volume (WM Parcellation) of CorpusCallosumPosterior
+ST70SV,Volume (WM Parcellation) of RightAccumbensArea
+ST71SV,Volume (WM Parcellation) of RightAmygdala
+ST72CV,Volume (Cortical Parcellation) of RightBankssts
+ST72SA,Surface Area of RightBankssts
+ST72TA,Cortical Thickness Average of RightBankssts
+ST72TS,Cortical Thickness Standard Deviation of RightBankssts
+ST73CV,Volume (Cortical Parcellation) of RightCaudalAnteriorCingulate
+ST73SA,Surface Area of RightCaudalAnteriorCingulate
+ST73TA,Cortical Thickness Average of RightCaudalAnteriorCingulate
+ST73TS,Cortical Thickness Standard Deviation of RightCaudalAnteriorCingulate
+ST74CV,Volume (Cortical Parcellation) of RightCaudalMiddleFrontal
+ST74SA,Surface Area of RightCaudalMiddleFrontal
+ST74TA,Cortical Thickness Average of RightCaudalMiddleFrontal
+ST74TS,Cortical Thickness Standard Deviation of RightCaudalMiddleFrontal
+ST75SV,Volume (WM Parcellation) of RightCaudate
+ST76SV,Volume (WM Parcellation) of RightCerebellumCortex
+ST77SV,Volume (WM Parcellation) of RightCerebellumWM
+ST78SV,Volume (WM Parcellation) of RightCerebralCortex
+ST79SV,Volume (WM Parcellation) of RightCerebralWM
+ST7SV,Volume (WM Parcellation) of Csf
+ST80SV,Volume (WM Parcellation) of RightChoroidPlexus
+ST81CV,Volume (Cortical Parcellation) of RightCorpusCallosum
+ST81SA,Surface Area of RightCorpusCallosum
+ST81TA,Cortical Thickness Average of RightCorpusCallosum
+ST81TS,Cortical Thickness Standard Deviation of RightCorpusCallosum
+ST82CV,Volume (Cortical Parcellation) of RightCuneus
+ST82SA,Surface Area of RightCuneus
+ST82TA,Cortical Thickness Average of RightCuneus
+ST82TS,Cortical Thickness Standard Deviation of RightCuneus
+ST83CV,Volume (Cortical Parcellation) of RightEntorhinal
+ST83SA,Surface Area of RightEntorhinal
+ST83TA,Cortical Thickness Average of RightEntorhinal
+ST83TS,Cortical Thickness Standard Deviation of RightEntorhinal
+ST84CV,Volume (Cortical Parcellation) of RightFrontalPole
+ST84SA,Surface Area of RightFrontalPole
+ST84TA,Cortical Thickness Average of RightFrontalPole
+ST84TS,Cortical Thickness Standard Deviation of RightFrontalPole
+ST85CV,Volume (Cortical Parcellation) of RightFusiform
+ST85SA,Surface Area of RightFusiform
+ST85TA,Cortical Thickness Average of RightFusiform
+ST85TS,Cortical Thickness Standard Deviation of RightFusiform
+ST86SA,Surface Area of RightHemisphere
+ST87CV,Volume (Cortical Parcellation) of RightHemisphereWM
+ST88SV,Volume (WM Parcellation) of RightHippocampus
+ST89SV,Volume (WM Parcellation) of RightInferiorLateralVentricle
+ST8SV,Volume (WM Parcellation) of FifthVentricle
+ST90CV,Volume (Cortical Parcellation) of RightInferiorParietal
+ST90SA,Surface Area of RightInferiorParietal
+ST90TA,Cortical Thickness Average of RightInferiorParietal
+ST90TS,Cortical Thickness Standard Deviation of RightInferiorParietal
+ST91CV,Volume (Cortical Parcellation) of RightInferiorTemporal
+ST91SA,Surface Area of RightInferiorTemporal
+ST91TA,Cortical Thickness Average of RightInferiorTemporal
+ST91TS,Cortical Thickness Standard Deviation of RightInferiorTemporal
+ST92SV,Volume (WM Parcellation) of RightInterior
+ST93CV,Volume (Cortical Parcellation) of RightIsthmusCingulate
+ST93SA,Surface Area of RightIsthmusCingulate
+ST93TA,Cortical Thickness Average of RightIsthmusCingulate
+ST93TS,Cortical Thickness Standard Deviation of RightIsthmusCingulate
+ST94CV,Volume (Cortical Parcellation) of RightLateralOccipital
+ST94SA,Surface Area of RightLateralOccipital
+ST94TA,Cortical Thickness Average of RightLateralOccipital
+ST94TS,Cortical Thickness Standard Deviation of RightLateralOccipital
+ST95CV,Volume (Cortical Parcellation) of RightLateralOrbitofrontal
+ST95SA,Surface Area of RightLateralOrbitofrontal
+ST95TA,Cortical Thickness Average of RightLateralOrbitofrontal
+ST95TS,Cortical Thickness Standard Deviation of RightLateralOrbitofrontal
+ST96SV,Volume (WM Parcellation) of RightLateralVentricle
+ST97CV,Volume (Cortical Parcellation) of RightLingual
+ST97SA,Surface Area of RightLingual
+ST97TA,Cortical Thickness Average of RightLingual
+ST97TS,Cortical Thickness Standard Deviation of RightLingual
+ST98CV,Volume (Cortical Parcellation) of RightMedialOrbitofrontal
+ST98SA,Surface Area of RightMedialOrbitofrontal
+ST98TA,Cortical Thickness Average of RightMedialOrbitofrontal
+ST98TS,Cortical Thickness Standard Deviation of RightMedialOrbitofrontal
+ST99CV,Volume (Cortical Parcellation) of RightMiddleTemporal
+ST99SA,Surface Area of RightMiddleTemporal
+ST99TA,Cortical Thickness Average of RightMiddleTemporal
+ST99TS,Cortical Thickness Standard Deviation of RightMiddleTemporal
+ST9SV,Volume (WM Parcellation) of FourthVentricle
