@@ -1,0 +1,20 @@
+{
+    "data_name": "",
+    "n_samples": 0,
+    "features": {},
+    "n_features": 0,
+    "n_samples_orig": 0,
+    "generalisation_error": "unknown",
+    "safemodel": [
+        {
+            "researcher": "alieyeh.moghaddam",
+            "model_type": "SVC",
+            "details": "Model parameters are within recommended ranges.\n",
+            "recommendation": "Proceed to next step of checking",
+            "timestamp": "2023-12-19 15:14:23"
+        }
+    ],
+    "model_path": "model.pkl",
+    "model_name": "SafeSVC",
+    "model_params": {}
+}

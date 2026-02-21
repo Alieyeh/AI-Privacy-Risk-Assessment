@@ -1,0 +1,32 @@
+{
+    "data_name": "",
+    "n_samples": 1280,
+    "features": {},
+    "n_features": 0,
+    "n_samples_orig": 0,
+    "generalisation_error": "-0.006015214955475634",
+    "safemodel": [],
+    "model_path": "model.pkl",
+    "model_name": "SVC",
+    "model_params": {
+        "C": 10,
+        "break_ties": false,
+        "cache_size": 200,
+        "class_weight": null,
+        "coef0": 0.0,
+        "decision_function_shape": "ovr",
+        "degree": 3,
+        "gamma": "scale",
+        "kernel": "rbf",
+        "max_iter": -1,
+        "probability": true,
+        "random_state": null,
+        "shrinking": true,
+        "tol": 0.001,
+        "verbose": false
+    },
+    "x_train_path": "x_train.pkl",
+    "y_train_path": "y_train.pkl",
+    "x_test_path": "x_test.pkl",
+    "y_test_path": "y_test.pkl"
+}

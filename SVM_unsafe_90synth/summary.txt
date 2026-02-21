@@ -1,0 +1,30 @@
+TARGET MODEL SUMMARY
+model_name: SVC
+number of samples used to train: 1280
+C: 10
+kernel: rbf
+
+ATTACK JSON RESULTS
+Final score (scale of 0-5, where 0 is least disclosive and 5 is recommend rejection)
+5
+
+
+Immediate rejection recommended for the following reason:
+Model is SVM
+
+Evidence supporting rejection:
+>10% AUC are statistically significant in experiment LikelihoodAttack_ba8a7242-5e86-44f9-a729-1eb914d79e4e
+>10% AUC are statistically significant in experiment WorstCaseAttack_85ea0128-942e-4353-a207-52826bed8cf7
+>10% AUC are statistically significant in experiment LikelihoodAttack_bf610179-1e87-40e9-9a7b-f517fd834ea3
+Attack AUC > threshold of 0.65 in experiment LikelihoodAttack_bf610179-1e87-40e9-9a7b-f517fd834ea3
+>10% AUC are statistically significant in experiment WorstCaseAttack_2dfaa3f7-e32e-44a2-b88f-b8dd72938166
+Attack AUC > threshold of 0.65 in experiment WorstCaseAttack_2dfaa3f7-e32e-44a2-b88f-b8dd72938166
+>10% AUC are statistically significant in experiment LikelihoodAttack_a832202e-cab1-4285-8143-f059f585c083
+Attack AUC > threshold of 0.65 in experiment LikelihoodAttack_a832202e-cab1-4285-8143-f059f585c083
+
+Evidence supporting release:
+<10% AUC are statistically significant in experiment WorstCaseAttack_ee4ee656-1148-478a-95cf-335c663d41b8
+Attack AUC <= threshold of 0.65 in experiment WorstCaseAttack_ee4ee656-1148-478a-95cf-335c663d41b8
+Attack AUC <= threshold of 0.65 in experiment LikelihoodAttack_ba8a7242-5e86-44f9-a729-1eb914d79e4e
+Attack AUC <= threshold of 0.65 in experiment WorstCaseAttack_85ea0128-942e-4353-a207-52826bed8cf7
+

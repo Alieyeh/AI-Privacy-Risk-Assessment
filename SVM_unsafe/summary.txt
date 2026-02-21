@@ -1,0 +1,26 @@
+TARGET MODEL SUMMARY
+model_name: SVC
+number of samples used to train: 1280
+C: 10
+kernel: rbf
+
+ATTACK JSON RESULTS
+Final score (scale of 0-5, where 0 is least disclosive and 5 is recommend rejection)
+5
+
+
+Immediate rejection recommended for the following reason:
+Model is SVM
+
+Evidence supporting rejection:
+>10% AUC are statistically significant in experiment LikelihoodAttack_723c4e38-93a4-40f5-970c-84641816c06a
+>10% AUC are statistically significant in experiment WorstCaseAttack_355fa0d4-8005-47a1-a808-ec5ac3a23ad7
+>10% AUC are statistically significant in experiment LikelihoodAttack_cc2739e9-927f-4131-8d32-44ee9ea9bccc
+
+Evidence supporting release:
+<10% AUC are statistically significant in experiment WorstCaseAttack_37279ccb-55a0-4005-ae2a-3ae5a4c6a272
+Attack AUC <= threshold of 0.65 in experiment WorstCaseAttack_37279ccb-55a0-4005-ae2a-3ae5a4c6a272
+Attack AUC <= threshold of 0.65 in experiment LikelihoodAttack_723c4e38-93a4-40f5-970c-84641816c06a
+Attack AUC <= threshold of 0.65 in experiment WorstCaseAttack_355fa0d4-8005-47a1-a808-ec5ac3a23ad7
+Attack AUC <= threshold of 0.65 in experiment LikelihoodAttack_cc2739e9-927f-4131-8d32-44ee9ea9bccc
+

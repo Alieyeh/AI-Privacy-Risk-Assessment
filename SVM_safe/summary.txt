@@ -1,0 +1,21 @@
+TARGET MODEL SUMMARY
+model_name: SafeSVC
+number of samples used to train: 1280
+
+ATTACK JSON RESULTS
+Final score (scale of 0-5, where 0 is least disclosive and 5 is recommend rejection)
+4
+
+
+Immediate rejection recommended for the following reason:
+None
+
+Evidence supporting rejection:
+>10% AUC are statistically significant in experiment LikelihoodAttack_73b7e631-389a-468e-aa39-4006d20897c2
+>10% AUC are statistically significant in experiment AttributeAttack_4fcfc056-847c-459f-9e31-e278b77809c5
+
+Evidence supporting release:
+<10% AUC are statistically significant in experiment WorstCaseAttack_889ad56c-03c0-433f-8817-2cc67821f8c7
+Attack AUC <= threshold of 0.65 in experiment LikelihoodAttack_73b7e631-389a-468e-aa39-4006d20897c2
+Attack AUC <= threshold of 0.65 in experiment AttributeAttack_4fcfc056-847c-459f-9e31-e278b77809c5
+
