@@ -1,0 +1,117 @@
+{
+    "data_name": "",
+    "n_samples": 3214,
+    "features": {},
+    "n_features": 0,
+    "n_samples_orig": 0,
+    "generalisation_error": "unknown",
+    "safemodel": [
+        {
+            "researcher": "alieyeh.moghaddam",
+            "model_type": "SVC",
+            "details": "WARNING: model parameters may present a disclosure risk:\n- parameter gamma = 0.007575757575757578 identified as less than the recommended min value of 0.1.",
+            "recommendation": "Do not allow release",
+            "reason": "WARNING: model parameters may present a disclosure risk:\n- parameter gamma = 0.007575757575757578 identified as less than the recommended min value of 0.1.",
+            "worst_case_results": {
+                "experiment_details": {
+                    "n_reps": 10,
+                    "reproduce_split": [
+                        5,
+                        25,
+                        36,
+                        49,
+                        64,
+                        81,
+                        100,
+                        121,
+                        144,
+                        169
+                    ],
+                    "p_thresh": 0.05,
+                    "n_dummy_reps": 1,
+                    "train_beta": 1,
+                    "test_beta": 1,
+                    "test_prop": 0.5,
+                    "n_rows_in": 2814,
+                    "n_rows_out": 400,
+                    "training_preds_filename": null,
+                    "test_preds_filename": null,
+                    "output_dir": "./old_safe",
+                    "report_name": "attack_results",
+                    "include_model_correct_feature": false,
+                    "sort_probs": true,
+                    "mia_attack_model": "<class 'sklearn.ensemble._forest.RandomForestClassifier'>",
+                    "mia_attack_model_hyp": {
+                        "min_samples_split": 20,
+                        "min_samples_leaf": 10,
+                        "max_depth": 5
+                    },
+                    "attack_metric_success_name": "P_HIGHER_AUC",
+                    "attack_metric_success_thresh": 0.05,
+                    "attack_metric_success_comp_type": "lte",
+                    "attack_metric_success_count_thresh": 5,
+                    "attack_fail_fast": false,
+                    "attack_config_json_file_name": null,
+                    "target_path": null
+                },
+                "attack": "WorstCase attack",
+                "global_metrics": {
+                    "null_auc_3sd_range": "0.4345 -> 0.5655",
+                    "n_sig_auc_p_vals": 1,
+                    "n_sig_auc_p_vals_corrected": 0,
+                    "n_sig_pdif_vals": 3,
+                    "n_sig_pdif_vals_corrected": 2
+                },
+                "baseline_global_metrics": {
+                    "null_auc_3sd_range": "0.4345 -> 0.5655",
+                    "n_sig_auc_p_vals": 0,
+                    "n_sig_auc_p_vals_corrected": 0,
+                    "n_sig_pdif_vals": 0,
+                    "n_sig_pdif_vals_corrected": 0
+                }
+            },
+            "lira_results": {
+                "experiment_details": {
+                    "n_shadow_models": 100,
+                    "p_thresh": 0.05,
+                    "output_dir": "./old_safe",
+                    "report_name": "attack_results",
+                    "training_data_filename": null,
+                    "test_data_filename": null,
+                    "training_preds_filename": null,
+                    "test_preds_filename": null,
+                    "target_model": null,
+                    "target_model_hyp": null,
+                    "attack_config_json_file_name": null,
+                    "n_shadow_rows_confidences_min": 10,
+                    "shadow_models_fail_fast": false,
+                    "target_path": null
+                },
+                "global_metrics": {
+                    "PDIF_sig": "Not significant at p=0.05",
+                    "AUC_sig": "Significant at p=0.05",
+                    "null_auc_3sd_range": "0.45371619255553297 -> 0.546283807444467"
+                },
+                "attack": "LIRA Attack"
+            },
+            "attribute_results": {
+                "experiment_details": {
+                    "output_dir": "./old_safe",
+                    "report_name": "attack_results",
+                    "n_cpu": 11,
+                    "attack_config_json_file_name": null,
+                    "target_path": null
+                },
+                "attack": "Attribute inference attack"
+            },
+            "timestamp": "2024-01-10 14:50:11"
+        }
+    ],
+    "model_path": "model.pkl",
+    "model_name": "SafeSVC",
+    "model_params": {},
+    "x_train_path": "x_train.pkl",
+    "y_train_path": "y_train.pkl",
+    "x_test_path": "x_test.pkl",
+    "y_test_path": "y_test.pkl"
+}

@@ -1,0 +1,21 @@
+{
+    "data_name": "",
+    "n_samples": 0,
+    "features": {},
+    "n_features": 0,
+    "n_samples_orig": 0,
+    "generalisation_error": "unknown",
+    "safemodel": [
+        {
+            "researcher": "alieyeh.moghaddam",
+            "model_type": "SVC",
+            "details": "Model parameters are within recommended ranges.\n",
+            "recommendation": "Do not allow release",
+            "reason": "Model parameters are within recommended ranges.\nWarning: basic parameters differ in 1 places:\nparameter timestamp changed from None to 2023-12-17 20:41:53 after model was fitted.\n",
+            "timestamp": "2023-12-17 20:42:58"
+        }
+    ],
+    "model_path": "model.pkl",
+    "model_name": "SafeSVC",
+    "model_params": {}
+}
